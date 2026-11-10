@@ -1,0 +1,14 @@
+{
+    "id": "silenceo0/training4",
+    "title": "Training4",
+    "code_file": "dqn_car_racing_validation_best.py",
+    "language": "python",
+    "kernel_type": "script",
+    "is_private": true,
+    "enable_gpu": true,
+    "enable_internet": true,
+    "dataset_sources": [],
+    "competition_sources": [],
+    "kernel_sources": [],
+    "model_sources": []
+}
